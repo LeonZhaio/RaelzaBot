@@ -35,7 +35,7 @@ let name = await conn.getName(who)
           showAdAttribution: true,
     mediaUrl: 'https://www.youtube.com/channel/UC5z1Xp6vQGU038B1RbMC3Gg',
     mediaType: 2,
-    description: 'Ryzn', 
+    description: 'dnm', 
     title: `${command} Sedang Di Proses`,
     body: botdate,
     thumbnail: await(await fetch(pp)).buffer(),
