@@ -828,7 +828,7 @@ const fgclink = {
         rowner: '*ᴏɴʟʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ* • ᴄᴏᴍᴍᴀɴᴅ ɪɴɪ ʜᴀɴʏᴀ ᴜɴᴛᴜᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ'}[type]
   if (rown) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, rown + '\n\n\n\n', 'Owner', '.owner', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     description: sgc,
-    title: "Shirokami Ryzen",
+    title: "dnm",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
@@ -840,7 +840,7 @@ let own = {
 owner: '*ᴏɴʟʏ ᴏᴡɴᴇʀ* • ᴄᴏᴍᴍᴀɴᴅ ɪɴɪ ʜᴀɴʏᴀ ᴜɴᴛᴜᴋ ᴏᴡɴᴇʀ ʙᴏᴛ'}[type]
   if (own) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, own + '\n\n\n\n', 'Owner', '.owner', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     description: sgc,
-    title: "Shirokami Ryzen",
+    title: "dnm",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
@@ -851,7 +851,7 @@ let mod = {
 mods: '*ᴏɴʟʏ ᴍᴏᴅᴇʀᴀᴛᴏʀ* • ᴄᴏᴍᴍᴀɴᴅ ɪɴɪ ʜᴀɴʏᴀ ᴜɴᴛᴜᴋ ᴍᴏᴅᴇʀᴀᴛᴏʀ ʙᴏᴛ'}[type]
   if (mod) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, mod + '\n\n\n\n', 'MENU', '.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     description: sgc,
-    title: "Shirokami Ryzen",
+    title: "dnm",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
@@ -861,7 +861,7 @@ let prm = {
         premium: '*ᴏɴʟʏ ᴘʀᴇᴍɪᴜᴍ* • ᴄᴏᴍᴍᴀɴᴅ ɪɴɪ ʜᴀɴʏᴀ ᴜɴᴛᴜᴋ ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀ'}[type]
   if (prm) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, prm + '\n\n\n\n', 'Beli Prem', '.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true, 
     description: sgc,
-    title: "Shirokami Ryzen",
+    title: "dnm",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
@@ -873,7 +873,7 @@ let gc = {
         }[type]
   if (gc) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, gc + '\n\n\n\n', 'MENU', '.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     description: sgc,
-    title: "Shirokami Ryzen",
+    title: "dnm",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
@@ -888,7 +888,7 @@ let msg = {
   /*  if (msg) return conn.sendButtonDoc(m.chat, msg, wm, 'Menu', '.menu', fgclink)*/
   if (msg) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, msg + '\n\n\n\n', 'MENU', '.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     description: sgc,
-    title: "Shirokami Ryzen",
+    title: "dnm",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
@@ -901,7 +901,7 @@ let msg = {
 }[type]
 if (msgg) return conn.sendButtonDocAccess(m.chat, `${ucapan()} ` + tag, msgg + '\n\n\n\n', '❮ ᴠᴇʀɪғʏ ❯', '.verify', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     description: sgc,
-    title: "Shirokami Ryzen",
+    title: "dnm",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
