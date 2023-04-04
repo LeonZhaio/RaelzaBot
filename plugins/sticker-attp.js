@@ -11,7 +11,7 @@ handler.command = /^attp$/i
 export default handler
 */
 let handler = async(m, { conn, text, args, usedPrefix, command }) => {
-    if (!text) throw `*CONTOH*\n${usedPrefix + command} Nao Tomori`
+    if (!text) throw `*CONTOH*\n${usedPrefix + command} Raelza`
     let teks = encodeURI(text)
     if (command == 'attp') {
     conn.sendFile(m.chat, `https://api.lolhuman.xyz/api/attp?apikey=${global.lolkey}&text=${teks}`, 'sticker.webp', '', m, { asSticker: true })}
