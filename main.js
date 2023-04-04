@@ -105,7 +105,7 @@ const connectionOptions = {
 	    version,
         printQRInTerminal: true,
         auth: state,
-        browser: ['Nao Tomori(友利 奈緒)', 'Safari', '3.1.0'], 
+        browser: ['Raelza', 'Safari', '3.1.0'], 
 	      patchMessageBeforeSending: (message) => {
                 const requiresPatch = !!(
                     message.buttonsMessage 
