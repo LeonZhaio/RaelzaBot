@@ -721,7 +721,7 @@ export async function participantsUpdate({ id, participants, action }) {
   let godbye = 'https://telegra.ph/file/b44e48066aed4fb7ad291.jpg'
   conn.sendButtonImg(id, await(await fetch(action === 'add' ? wel : lea)).buffer(), 'Group Messege', text, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'Aʟᴅɪ X Aɪsʏᴀʜ', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true, 
     description: sgc,
-    title: "Nao-Botz",
+    title: "RaelzaBot",
     body: wm,
     thumbnail: await(await fetch(action === 'add' ? welcom : godbye)).buffer(),
     sourceUrl: sgc
