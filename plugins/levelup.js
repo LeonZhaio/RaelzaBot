@@ -18,7 +18,7 @@ Kurang *${max - user.exp}* lagi! ✨
     let before = user.level * 1
     while (canLevelUp(user.level, user.exp, global.multiplier)) user.level++
     
-    let pp = 'https://telegra.ph/file/712e80d59373d2dfe5cbe.jpg'
+    let pp = 'https://telegra.ph/file/72f9d0ef59ccf6ad381ee.jpg'
     const vv = await conn.profilePictureUrl(m.sender, 'image').catch(() => 'https://telegra.ph/file/24fa902ead26340f3df2c.png')
               
     let hh = API('males', '/levelup', {
