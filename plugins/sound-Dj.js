@@ -30,9 +30,9 @@ await conn.sendFile(m.chat, audio, 'error.mp3', null, fkontak, true, {
 type: 'audioMessage', 
 ptt: false, seconds: 0,contextInfo: {
          externalAdReply: { showAdAttribution: true,
- mediaUrl: 'www.instagram.com/ryzen_vermillion',
+ mediaUrl: 'www.instagram.com/adam_daniam',
     mediaType: 2, 
-    description: 'www.instagram.com/ryzen_vermillion',
+    description: 'www.instagram.com/adam_daniam',
     title: "Now Playing...",
     body: wm,
     thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer(),
