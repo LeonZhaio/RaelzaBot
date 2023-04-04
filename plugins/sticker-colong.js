@@ -9,7 +9,7 @@ try {
     if (/image|video/.test(mime)) {
       let img = await q.download()
       if (!img) throw 'Reply stiker nya!'
-      stiker = await sticker(img, false, '🍀', '🍭 • NAO-BOTZ V2 :\nBY dnm')
+      stiker = await sticker(img, false, '🍀', '🍭 • RaelzaBot v2023.04.04 :\nBY dnm')
     } else if (args[0]) stiker = await sticker(false, args[0], '🍀', '🎮 • SUBSCRIBE :\n https://www.youtube.com/channel/UC5z1Xp6vQGU038B1RbMC3Gg')
   } finally {
     if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '', m)
