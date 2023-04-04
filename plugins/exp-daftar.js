@@ -96,7 +96,7 @@ const listMessage = {
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
-'thumbnail':await(await fetch('https://raw.githubusercontent.com/ShirokamiRyzen/Nao-MD/main/media/own.jpg')).buffer(),
+'thumbnail':await(await fetch('https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg')).buffer(),
 'sourceUrl':'https://www.youtube.com/c/akiraid'}},
 'caption':cap,
 'footer':botdate,
