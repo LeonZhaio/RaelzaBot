@@ -71,9 +71,9 @@ let name = await conn.getName(who)
     mediaType: 2, 
     description: sgc,
     title: "Iɴɪ Dʜ Sɪᴀᴘ Cᴜʏ 〠",
-    body: 'Scriptnya ini cuy: https://github.com/ShirokamiRyzen',
+    body: 'Scriptnya ini cuy: https://github.com/adamdani169',
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
-    sourceUrl: `https://github.com/ShirokamiRyzen`
+    sourceUrl: `https://github.com/adamdani169`
      }}
   })
 }
