@@ -46,7 +46,7 @@ handler.all = async function (m) {
 					description: 'Nao-Botz',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pp)).buffer(),
-					sourceUrl: "https://github.com/ShirokamiRyzen",					
+					sourceUrl: "https://github.com/adamdani169",					
 				}
 			}
 		}
