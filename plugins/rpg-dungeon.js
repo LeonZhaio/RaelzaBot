@@ -170,7 +170,7 @@ let handler = async(m, { conn, usedPrefix, command, text }) => {
     description: titlebot, 
     title: '- ᴅ ᴜ ɴ ɢ ᴇ ᴏ ɴ -',
     body: titlebot,
-    thumbnail: await(await fetch('https://telegra.ph/file/1836eec6c22d949829474.jpg')).buffer(),
+    thumbnail: await(await fetch('https://telegra.ph/file/a37100dc91041f5b8c410.jpg')).buffer(),
     sourceUrl: sgc
      }}
   })
@@ -441,7 +441,7 @@ ${P}
     description: titlebot, 
     title: '- ᴅ ᴜ ɴ ɢ ᴇ ᴏ ɴ -',
     body: titlebot,
-    thumbnail: await(await fetch('https://telegra.ph/file/1836eec6c22d949829474.jpg')).buffer(),
+    thumbnail: await(await fetch('https://telegra.ph/file/a37100dc91041f5b8c410.jpg')).buffer(),
     sourceUrl: sgc
      }}
   })
@@ -537,7 +537,7 @@ ${P}
     description: titlebot, 
     title: '- ᴅ ᴜ ɴ ɢ ᴇ ᴏ ɴ -',
     body: titlebot,
-    thumbnail: await(await fetch('https://telegra.ph/file/1836eec6c22d949829474.jpg')).buffer(),
+    thumbnail: await(await fetch('https://telegra.ph/file/a37100dc91041f5b8c410.jpg')).buffer(),
     sourceUrl: sgc
      }}
   })
