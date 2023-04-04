@@ -35,12 +35,12 @@ ptt: false, seconds: 0,contextInfo: {
     description: 'www.instagram.com/adam_daniam',
     title: "Now Playing...",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/132b855e6b37021764d95.jpg')).buffer(),
     sourceUrl: 'www.instagram.com/hyuura-official'
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()*/
+           thumbnail: await (await fetch('fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()')).buffer()*/
 }
      }
     })
