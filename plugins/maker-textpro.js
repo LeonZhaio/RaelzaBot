@@ -25,7 +25,7 @@ let name = await conn.getName(who)
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "title": "© CREATED BY NAO BOTZ","RYZN": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "title": "© CREATED BY RaelzaBot","dnm": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
        let tag = `@${m.sender.replace(/@.+/, '')}`
   let mentionedJid = [m.sender]
