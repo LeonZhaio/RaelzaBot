@@ -1,7 +1,7 @@
 {
-    "name": "ShirokamiRyzen",
-    "version": "3.0.0",
-    "description": "Nao-MD By Ryzen",
+    "name": "dnm",
+    "version": "023.04.04",
+    "description": "RaelzaBot By dnm",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -22,20 +22,20 @@
         "whatsapp",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/ShirokamiRyzen",
+    "homepage": "https://github.com/adamdani169",
     "author": {
-        "name": "ShirokamiRyzen"
+        "name": "dnm"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ShirokamiRyzen"
+        "url": "git+https://github.com/adamdani169"
     },
     "bugs": {
-        "url": "https://github.com/ShirokamiRyzen"
+        "url": "https://github.com/adamdani169"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "npm:baileys@^6.0.7",
+        "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@vitalets/google-translate-api": "^8.0.0",
         "@arugaz/ai2d": "^1.0.1-z.8",
@@ -85,6 +85,8 @@
         "perf_hooks": "^0.0.1",
         "pino": "^8.11.0",
         "pino-pretty": "^9.4.0",
+        "python": "^0.0.4",
+        "python2": "^0.0.1",
         "qrcode": "^1.5.0",
         "qrcode-terminal": "^0.12.0",
         "qs": "^6.11.0",
