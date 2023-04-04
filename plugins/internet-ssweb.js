@@ -52,13 +52,13 @@ async function ssweb(url, device = 'desktop'){
                     }).then(({ data }) => {
                        let result = {
                             status: 200,
-                            author: 'Ryzn',
+                            author: 'dnm',
                             result: data
                         }
                          resolve(result)
                     })
                } else {
-                    reject({ status: 404, author: 'Ryzn', message: data.data })
+                    reject({ status: 404, author: 'dnm', message: data.data })
                }
           }).catch(reject)
      })
