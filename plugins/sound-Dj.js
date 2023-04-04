@@ -16,7 +16,7 @@ let stiker = await sticker(null, global.API(`https://telegra.ph/file/d34b2ab2cb2
           showAdAttribution: true,
     mediaUrl: sgc,
     mediaType: 2,
-    description: 'Ryzn', 
+    description: 'dnm', 
     title: `${command} Sedang Di Proses`,
     body: botdate,
     thumbnail: await(await fetch(pp)).buffer(),
