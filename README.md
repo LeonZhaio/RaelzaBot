@@ -9,6 +9,9 @@ RaelzaBot adalah bot WhatsApp #multi-device menggunakan library ferdiz-afk/baile
 </p>
 
 Base [Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD).
+## Join Group
+[![Group WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BYgDRubCSRt7uWylK8J6cQ)
+[![Bot WhatsApp](https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/628388906981)
 # Installation
 ## Termux user
 ```cmd
@@ -75,6 +78,8 @@ Edit yang diperlukan di `config.json`.
 ```
 After that scan the QR code using your WhatsApp in your phone.\
 Setelah itu pindai kode QR menggunakan WhatsApp di ponsel Anda.
+## FOR REPLIT USER
+[![Run on Repl.it](https://repl.it/badge/github/adamdani169/RaelzaBot)](https://repl.it/github/adamdani169/RaelzaBot)
 # Features
 Type `.menu` to your bot number to see the list of commands.\
 Ketik `.menu` ke nomor bot untuk melihat daftar perintah.
