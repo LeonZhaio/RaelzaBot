@@ -424,7 +424,7 @@ handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
 handler.command = /^(menu|help|\?)$/i
 
-handler.register = false
+handler.register = true
 handler.exp = 3
 
 export default handler
@@ -456,16 +456,16 @@ function clockStringP(ms) {
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   let res = "Kok Belum Tidur Kak? 🥱"
-  if (time >= 4) {
+  if (time >= 18) {
     res = "Pagi Kak 🌄"
   }
-  if (time >= 10) {
+  if (time >= 4) {
     res = "Siang Kak ☀️"
   }
-  if (time >= 15) {
+  if (time >= 11) {
     res = "Sore Kak 🌇"
   }
-  if (time >= 18) {
+  if (time >= 15) {
     res = "Malam Kak 🌙"
   }
   return res
