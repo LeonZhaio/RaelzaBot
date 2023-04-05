@@ -12,6 +12,7 @@ Base [Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD).
 
 [![Group WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BYgDRubCSRt7uWylK8J6cQ)
 [![Bot WhatsApp](https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/628388906981)
+[![Owner Bot](https://img.shields.io/badge/Owner%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/6285156057360)
 # Installation
 ## Termux user
 ```cmd
