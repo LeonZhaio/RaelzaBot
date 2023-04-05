@@ -1,6 +1,6 @@
 {
     "name": "dnm",
-    "version": "023.04.04",
+    "version": "023.04.05",
     "description": "RaelzaBot By dnm",
     "main": "index.js",
     "type": "module",
