@@ -1,150 +1,98 @@
+<div align="center">
+<img src="https://telegra.ph/file/07b50c0eca5870ab032c8.jpg" alt="RaelzaBot" width="500" />
+  
+# RaelzaBot
+RaelzaBot adalah bot WhatsApp #multi-device menggunakan library ferdiz-afk/baileys.
 <p align="center">
-    <img src="./media/own.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+<a href="https://github.com/adamdani169"><img title="Author" src="https://img.shields.io/badge/Author-adamdani169-red.svg?style=for-the-badge&logo=github"></a>
+  <img src="https://img.shields.io/github/repo-size/adamdani169/RaelzaBot"/>
 </p>
-<h1 align="center">Nao-Botz V2</h1>
 
-
-## NOTE BEFORE USING!!
-- Edit all Owner Information on config.js
-- If the feature not working, just buy your own API key
-- If you facing some issue, just open Issues on github page
----------
-- Ubah semua Informasi Owner di config.js
-- Jika sebagian fitur ada yang tidak berfungsi, beli API key lu sendiri
-- Jika kamu mengalami masalah, bisa buat Issues di page ini
-
-### a little about this bot
-- ✔️ | **Simple** 
-- ✔️ | **Button Template** 
-- ✔️ | **Multi Device** 
-- ✔️ | **Button Document** 
----------
-### Some of the features include
-- ✔️ | Menfess
-- ✔️ | AntiCall
-- ✔️ | Game & Rpg Game
-- ✔️ | AI Feature (ChatGPT/DALL-E)
-- ✔️ | Jadi Anime
-- ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
----------
-
-##
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285864034767) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281387307198) 
-
-##
-[![Uptime Status](https://api.netlify.com/api/v1/badges/074dc5c6-dc02-47eb-afdb-f504d226ba3b/deploy-status)](https://app.netlify.com/sites/nao-md/deploys)
-<a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
----------
-
-## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShirokamiRyzen/Nao-MD)
-
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
-
-## TERMUX USER
-```bash
+### Base [Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD).
+# Installation
+## Termux user
+```cmd
 $ pkg upgrade && pkg update
 $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/ShirokamiRyzen/Nao-MD
-$ cd Nao-MD
+$ git clone https://github.com/adamdani169/RaelzaBot
+$ cd RaelzaBot
 $ npm i
-```
-If error try using yarn instead of npm, see [here](https://github.com/Jikarinka/Kannabotv2#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```bash
 $ node .
 ```
-
-#### If npm install failed, try using yarn instead of npm
-```bash
+If error try using yarn instead of npm\
+Jika error coba gunakan npm
+```cmd
 $ pkg install yarn -y
 $ yarn install
 ```
----------
-
-## TERMUX WITH UBUNTU
-
-```bash
+## Termux with Ubuntu
+```cmd
 apt update && apt full-upgrade
 apt install wget curl git proot-distro
 proot-distro install ubuntu
 echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
 ubuntu
 ```
----------
-
-[ INSTALLING REQUIRED PACKAGES ]
-
-```bash
+```cmd
 ubuntu
 apt update && apt full-upgrade
 apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
 ```
-
----------
-
-[ INSTALLING NODEJS ]
-
-```bash
+```cmd
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ShirokamiRyzen/Nao-MD
-cd Nao-MD
+git clone https://github.com/adamdani169/RaelzaBot
+cd RaelzaBot
 npm install
 npm update
 ```
-
----------
-
-## FOR WINDOWS/VPS/RDP USER 💻
-
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
-
-```bash
-git https://github.com/ShirokamiRyzen/Nao-MD
-cd Nao-MD
+## For WINDOWS/VPS/RDP
+- Download & Install Git [Here](https://git-scm.com/downloads)
+- Download & Install NodeJS [Here](https://nodejs.org/en/download)
+- Download & Install FFmpeg [Here](https://ffmpeg.org/download.html) (Don't Forget Add FFmpeg to PATH enviroment variables)
+- Download & Install ImageMagick [Here](https://imagemagick.org/script/download.php)
+```cmd
+git https://github.com/adamdani169/RaelzaBot
+cd RaelzaBot
 npm install
 npm update
 ```
-
----------
-
-## Run 🏃
-
-```bash
-node .
+## Editing the file
+Edit the required value in `config.json`.\
+Edit yang diperlukan di `config.json`.
+# Run
+### Regular node:
+```cmd
+> node .
 ```
-
----------
-
-#
-### 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
-4. Jangan salah gunakan script ini!
-
----------
-
-
-## Thanks To
-```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : Shirokami Ryzen 
-𝐖𝐚 : +6281387307198
-𝐛𝐚𝐬𝐞 : Narutomo and Elaina
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 20 Nov 2022
+### PM2:
+```cmd
+> npm install pm2 -g && pm2 update $$ pm2 start index.js && pm2 save && pm2 logs
+```
+After that scan the QR code using your WhatsApp in your phone.\
+Setelah itu pindai kode QR menggunakan WhatsApp di ponsel Anda.
+# Features
+Type `.menu` to your bot number to see the list of commands.\
+Ketik `.menu` ke nomor bot untuk melihat daftar perintah.
+# Thanks to
+- Allah SWT
+- My parents
+- All friends
+- All contributors
+- All creator bot
+- [Nurutomo](https://github.com/Nurutomo)
+- [BochilGaming](https://github.com/bochilgaming)
+- [adiwajshing](https://github.com/adiwajshing)
+- [Fokus ID](https://github.com/Fokusdotid)
+- [ShirokamiRyzen](https://github.com/ShirokamiRyzen)
+- [FERDIZ-afk](https://github.com/FERDIZ-afk)
+- [nvhitori](https://github.com/nvhitori)
+- [SlavyanDesu](https://github.com/SlavyanDesu)
+<details>
+<summary>Support saia🍵🗿</summary><br>
+<img src="https://telegra.ph/file/43aae0b66cf7791171d05.jpg"/>
+</details>
