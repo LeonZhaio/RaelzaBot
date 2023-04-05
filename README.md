@@ -8,7 +8,7 @@ RaelzaBot adalah bot WhatsApp #multi-device menggunakan library ferdiz-afk/baile
   <img src="https://img.shields.io/github/repo-size/adamdani169/RaelzaBot"/>
 </p>
 
-### Base [Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD).
+Base [Nao-MD](https://github.com/ShirokamiRyzen/Nao-MD).
 # Installation
 ## Termux user
 ```cmd
