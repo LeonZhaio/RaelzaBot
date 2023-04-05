@@ -83,6 +83,10 @@ Setelah itu pindai kode QR menggunakan WhatsApp di ponsel Anda.
 # Features
 Type `.menu` to your bot number to see the list of commands.\
 Ketik `.menu` ke nomor bot untuk melihat daftar perintah.
+# Don't! / Jangan!
+- Sell this script / jual-beli kan script ini
+- Forget to give a star / lupa kasih star
+- Forget to follow / lupa follow
 # Thanks to
 - Allah SWT
 - My parents
