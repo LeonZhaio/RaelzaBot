@@ -301,7 +301,7 @@ let tags = {
   "product": {
   "productImage":{
   "mimetype": "image/jpeg",
-  "jpegThumbnail": fs.readFileSync('./media/own.jpg'),
+  "jpegThumbnail": fs.readFileSync('https://fantox-cosplay-api.onrender.com'),
     },
   "title": `${ucapan()}`,
   "description": '𝗧 𝗜 𝗠 𝗘 : ' + wktuwib,
