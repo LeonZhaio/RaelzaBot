@@ -45,13 +45,13 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285156057360', 'dnm', true]
+['6289524204021', 'ExBone', true]
 ]
-global.mods = ['6285156057360']
-global.prems = ['6285156057360']
+global.mods = ['6289524204021']
+global.prems = ['6289524204021']
 global.nomorbot = '628388906981'
-global.nomorown = '6285156057360'
-global.nomorown1 = '6285156057360'
+global.nomorown = '6289524204021'
+global.nomorown1 = '6281211731102'
 global.nomorown2 = '6285156057360'
 global.nomorwa = '0'
 
@@ -59,41 +59,41 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'dnm'
-global.namebot = '​ RaelzaBot'
-global.wm = '© RaelzaBot By dnm'
+global.author = 'ExBone'
+global.namebot = '​ 𝙔𝙐𝙆𝙞𝙉𝙤'
+global.wm = '© 𝙔𝙐𝙆𝙞𝙉𝙤 By ExBone'
 global.media = 'https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg'
-global.wm = 'dnm'
+global.wm = 'ExBone'
 global.watermark = wm
-global.wm2 = 'dnm'
+global.wm2 = 'ExBone'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `RaelzaBot`
-global.stickpack = 'RaelzaBot'
-global.stickauth = `© dnm`
+global.titlebot = `𝙔𝙐𝙆𝙞𝙉𝙤`
+global.stickpack = '𝙔𝙐𝙆𝙞𝙉𝙤'
+global.stickauth = `© ExBone`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'dnm'
-global.nameown2 = 'dnm'
+global.nameown1= 'ExBone'
+global.nameown2 = 'ExBone'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/BYgDRubCSRt7uWylK8J6cQ'
+global.Linkgc = 'https://chat.whatsapp.com/CnEQWo8eQEKI1AMUSfO9nm'
 global.lynk = 'https://lynk.id/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://www.instagram.com/adam_daniam'
-global.sgh = 'https://github.com/adamdani169' //github
-global.sgc = 'https://chat.whatsapp.com/BYgDRubCSRt7uWylK8J6cQ' //group whatsapp
+global.sgh = 'https://nekopoi.care' //github
+global.sgc = 'https://chat.whatsapp.com/CnEQWo8eQEKI1AMUSfO9nm' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtu.be/xoKX8ZiX040'
+global.snh = 'https://nekopoi.care'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0851 5605 7360'
+global.pdana = '0895 2420 4021'
 global.povo = '0851 5605 7360'
 global.pgopay = '0851 5605 7360'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0851 5605 7360'
+global.ppulsa = '0895 2420 4021'
 global.ppulsa2 = '0812 3244 4255'
 global.psaweria = 'https://saweria.co/dnnm'
 
@@ -306,9 +306,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/adam_daniam"
+global.urlnya = "https://nekopoi.care"
 global.dtc = 'CALL OWNER'
-global.phn = '0851 5605 7360'
+global.phn = '0895 2420 4021'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
