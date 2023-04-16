@@ -83,7 +83,7 @@ global.lynk = 'https://lynk.id/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://fantox-cosplay-api.onrender.com'
-global.sgh = 'https://github.com/LeonZhaio/' //github
+global.sgh = 'https://github.com/LeonZhaio' //github
 global.sgc = 'https://chat.whatsapp.com/CnEQWo8eQEKI1AMUSfO9nm' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/'
