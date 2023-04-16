@@ -83,10 +83,10 @@ global.lynk = 'https://lynk.id/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://www.instagram.com/adam_daniam'
-global.sgh = 'https://nekopoi.care' //github
+global.sgh = 'https://github.com/LeonZhaio/' //github
 global.sgc = 'https://chat.whatsapp.com/CnEQWo8eQEKI1AMUSfO9nm' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://nekopoi.care'
+global.snh = 'https://www.youtube.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '0895 2420 4021'
@@ -306,7 +306,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://nekopoi.care"
+global.urlnya = "https://www.instagram.com/"
 global.dtc = 'CALL OWNER'
 global.phn = '0895 2420 4021'
 
