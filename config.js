@@ -267,10 +267,10 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 //OPTIONS
-global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = false // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg'
+global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
+global.premnsfw = true // Nsfw Mode Premium?
+global.thumb = 'https://fantox-cosplay-api.onrender.com' https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg //Main Thumbnail
+global.imagebot = 'https://fantox-cosplay-api.onrender.com' https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg'
 global.giflogo = 'https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg'
 global.thumbs = ['https://telegra.ph/file/0bb8eaa040093c82fd9ec.jpg']
 global.thumbnailUrl = [
